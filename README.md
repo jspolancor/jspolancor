@@ -18,8 +18,6 @@ Currently working as a Frontend developer [@media.monks](https://media.monks.com
 
 I code with Javascript for both the FrontEnd and BackEnd.
 
-<img src="assets/js.gif" style="height: 200px"/>
-
 My favorite FrontEnd stack changes all the time, currently is Typescript and React for component layout and logic, styled-components for styling and GraphQL for BackEnd communication,
 
 I'm not so active right now in Backend Development, but when I am I usually use express, or a serverless platform like firebase.
@@ -33,14 +31,6 @@ Apart from coding, I also maintain a blog, you can find my articles on my websit
 - [Dynamic metatags in your react app](https://codeandclay.io/Dynamic-metatags-in-your-react-app)
 
 <img src="https://codeandclay.io/static/17bdfc87b3f6a48300b94a8488a24b93/99fbb/hero.webp" style="object-fit: cover; width: 200px;">
-
-#### 🖌 Other passions
-
-When I'm not coding some personal project I'm playing board games and sculpting/painting miniatures
-
-*Latest miniature painted:*
-
-<img src="assets/mini.png" style="width: 300px;" />
 
 <hr />
 
