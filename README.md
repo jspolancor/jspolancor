@@ -18,7 +18,8 @@ Currently working as a Frontend developer [@media.monks](https://media.monks.com
 
 I code with Javascript for both the FrontEnd and BackEnd.
 
-<img src="assets/js.gif" />
+<img src="assets/js.gif" style="height: 200px"/>
+
 My favorite FrontEnd stack changes all the time, currently is Typescript and React for component layout and logic, styled-components for styling and GraphQL for BackEnd communication,
 
 I'm not so active right now in Backend Development, but when I am I usually use express, or a serverless platform like firebase.
@@ -29,15 +30,9 @@ Apart from coding, I also maintain a blog, you can find my articles on my websit
 
 *Latest entry, little robot sculpted by me 🗿:*
 
-<a target="_blank" style="color: inherit;" href="https://codeandclay.io/Dynamic-metatags-in-your-react-app">
-<div style="border: solid #ebebeb 1px; display: flex; align-items: center;justify-content: space-between; font-size: 11px;">
-<div style="padding: 10px">
-<h5 style="margin-top: 0">Dynamic metatags in your react app</h5>
-<small>Single page applications and progressive web apps are fastly becoming the global standard for website and app development, they’re fast, reliab....</small>
-</div>
-<img src="https://codeandclay.io/static/17bdfc87b3f6a48300b94a8488a24b93/99fbb/hero.webp" style="object-fit: cover; width: 100px; height: 100px;">
-</div>
-</a>
+- [Dynamic metatags in your react app](https://codeandclay.io/Dynamic-metatags-in-your-react-app)
+
+<img src="https://codeandclay.io/static/17bdfc87b3f6a48300b94a8488a24b93/99fbb/hero.webp" style="object-fit: cover; width: 200px;">
 
 #### 🖌 Other passions
 
