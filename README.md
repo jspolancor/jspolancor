@@ -35,9 +35,9 @@ Apart from coding, I also maintain a blog, you can find my articles on my websit
 <h5 style="margin-top: 0">Dynamic metatags in your react app</h5>
 <small>Single page applications and progressive web apps are fastly becoming the global standard for website and app development, they’re fast, reliab....</small>
 </div>
-</a>
 <img src="https://codeandclay.io/static/17bdfc87b3f6a48300b94a8488a24b93/99fbb/hero.webp" style="object-fit: cover; width: 100px; height: 100px;">
 </div>
+</a>
 
 #### 🖌 Other passions
 
