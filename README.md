@@ -5,21 +5,21 @@
 [![](https://img.shields.io/badge/-@jspolancor-%23181717?style=flat&logo=github)](https://github.com/jspolancor)
 [![](https://img.shields.io/badge/CV-Juan_Polanco.pdf-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)](assets/Juan-Polanco-CV-2025.pdf)
 
-Web developer from Bogotá Colombia, living in Madrid 🇪🇸
+Web developer from Bogotá, Colombia, now living in Madrid 🇪🇸
 
-Been coding for 11+ years 👨🏽‍💻
+I’ve been coding for 11+ years 👨🏽‍💻
 
-I consider myself a hacker, I'm always using technology to solve my life's problems and ambitions.
+I consider myself a hacker—always looking for ways to use technology to solve real-life problems and turn ideas into reality.
 
 Currently working as a Frontend developer [@STAG](https://stagsecurities.com/)
 
 #### 🪓 Skills
 
-I code with Javascript for both the FrontEnd and BackEnd.
+I work primarily with JavaScript on both the frontend and backend.
 
-My favorite FrontEnd stack changes all the time, currently is Typescript and React for component layout and logic, styled-components for styling and GraphQL for BackEnd communication,
+Right now, my favorite frontend stack is TypeScript + React for component logic and layout, styled-components for styling, and GraphQL for backend communication.
 
-I'm not so active right now in Backend Development, but when I am I usually use express, or a serverless platform like firebase.
+While I’m not as active in backend development at the moment, I usually work with Express or serverless solutions like Firebase when needed.
 
 <hr />
 
