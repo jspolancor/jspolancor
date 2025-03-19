@@ -22,16 +22,6 @@ My favorite FrontEnd stack changes all the time, currently is Typescript and Rea
 
 I'm not so active right now in Backend Development, but when I am I usually use express, or a serverless platform like firebase.
 
-#### ✍ Blog & Writing
-
-Apart from coding, I also maintain a blog, you can find my articles on my website at [codeandclay.io](https://codeandclay.io/) as well as on [Medium](https://medium.com/@jspolancor)
-
-*Latest entry, little robot sculpted by me 🗿:*
-
-- [Dynamic metatags in your react app](https://codeandclay.io/Dynamic-metatags-in-your-react-app)
-
-<img src="https://codeandclay.io/static/17bdfc87b3f6a48300b94a8488a24b93/99fbb/hero.webp" style="object-fit: cover; width: 200px;">
-
 <hr />
 
 [![](https://img.shields.io/badge/-jspolancor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jspolancor@gmail.com)
