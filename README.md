@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-jspolancor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jspolancor@gmail.com)
 [![](https://img.shields.io/badge/-@jspolancor-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/jspolancor)
 [![](https://img.shields.io/badge/-@jspolancor-%23181717?style=flat&logo=github)](https://github.com/jspolancor)
-[![](https://img.shields.io/badge/CV-Juan_Polanco.pdf-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)](assets/Juan_Polanco.pdf)
+[![](https://img.shields.io/badge/CV-Juan_Polanco.pdf-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)](assets/Juan-Polanco-CV-2025.pdf)
 
 Web developer from Bogotá Colombia, living in Madrid 🇪🇸
 
@@ -26,4 +26,4 @@ I'm not so active right now in Backend Development, but when I am I usually use 
 [![](https://img.shields.io/badge/-jspolancor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jspolancor@gmail.com)
 [![](https://img.shields.io/badge/-@jspolancor-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/jspolancor)
 [![](https://img.shields.io/badge/-@jspolancor-%23181717?style=flat&logo=github)](https://github.com/jspolancor)
-[![](https://img.shields.io/badge/CV-Juan_Polanco.pdf-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)](assets/Juan_Polanco.pdf)
+[![](https://img.shields.io/badge/CV-Juan_Polanco.pdf-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)](assets/Juan-Polanco-CV-2025.pdf)
